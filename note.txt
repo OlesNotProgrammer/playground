@@ -1,8 +1,0 @@
-// Симвло * замінюється на потрібне слово
-
-Comand:
-
-git config --global user.name *
-git config --global user.email *
-
-git clone https://github.com/OlesNotProgrammer/*.git
